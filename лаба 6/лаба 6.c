@@ -181,7 +181,7 @@ void main() {
         printf("  0: Выйти\n");
         printf("Выбранная операция >>>>>> ");
         scanf_s("%d", &item);
-
+        //выбор меню - кнопки ходов - 2 изменение
         switch (item) {
         case 1:  keyboardInput();
             break;
