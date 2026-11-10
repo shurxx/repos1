@@ -151,7 +151,7 @@ void deleteFirstEven() {
     }
 }
 
-
+//Вывод меню
 void main() {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
